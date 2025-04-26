@@ -1,39 +1,26 @@
-# confeitarias-fed
+# 🍰 Confeitaria - Instruções para Rodar o Projeto
 
-This template should help get you started developing with Vue 3 in Vite.
+## Observações
+✅ O projeto está quase completo!
+🔧 Falta apenas a integração com o backend e alguns ajustes finais.
 
-## Recommended IDE Setup
+## Pré-requisitos
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+Antes de começar, certifique-se de que você tenha instalado:
 
-## Type Support for `.vue` Imports in TS
+- [Node.js](https://nodejs.org/pt/download)
+- [Visual Studio Code (VSCode)](https://code.visualstudio.com/download)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+## Como executar o projeto
 
-## Customize configuration
+1. Abra a pasta raiz do projeto no VSCode ou terminal.
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+2. Instale as dependências:
 
-## Project Setup
+   ```bash
+   npm install
 
-```sh
-npm install
-```
+3. Rode o projeto:
+   ```bash
+   npm run dev
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Type-Check, Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
