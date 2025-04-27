@@ -1,10 +1,33 @@
-# 🍰 Confeitaria - Instruções para Rodar o Projeto
+
+# 🍰 Projeto Marketplace de Confeitarias
+Sobre o Projeto é um marketplace para confeitarias, permitindo que estabelecimentos se cadastrem, 
+
+adicionem produtos e mostrem suas localizações no mapa.🚀
+
+### 🏠 Tela Inicial
+<img src="https://raw.githubusercontent.com/magnostudent/imagens_tep/refs/heads/main/imagens_tep/img_1.jpg" alt="Tela Inicial" width="600"/>
+
+---
+
+### 🧁 Tela de Cadastro de Confeitaria
+<img src="https://raw.githubusercontent.com/magnostudent/imagens_tep/refs/heads/main/imagens_tep/img_2.jpg" alt="Tela Cadastro" width="600"/>
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Laravel (Backend)
+- Vue.js + Inertia.js (Frontend)
+- MySQL (Banco de dados)
+- Leaflet.js (Mapa interativo)
+
+
 
 ## Observações
 ✅ O projeto está quase completo!
 🔧 Falta apenas a integração com o backend e alguns ajustes finais.
 
-## Pré-requisitos
+## Pré-requisitos de Como Rodar o Projeto
 
 Antes de começar, certifique-se de que você tenha instalado:
 
