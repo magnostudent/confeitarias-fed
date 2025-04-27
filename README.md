@@ -13,6 +13,8 @@ adicionem produtos e mostrem suas localizações no mapa.🚀
 <img src="https://raw.githubusercontent.com/magnostudent/imagens_tep/refs/heads/main/imagens_tep/img_2.jpg" alt="Tela Cadastro" width="600"/>
 
 ---
+![Demo do Projeto](https://raw.githubusercontent.com/magnostudent/imagens_tep/refs/heads/main/gif/git.gif)
+
 
 ## 🛠️ Tecnologias Utilizadas
 
